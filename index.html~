@@ -258,7 +258,7 @@
                             <h2>Virtual Makeup</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/make.png" class="img-responsive img-centered" alt="">
-                            <p>A python script that could add lipstick, blush, nail polish on images virtually</p>
+                            <p>A python script that could add lipstick, blush, nail polish on images virtually with python</p>
                             <ul class="list-inline item-details">
                                 <li>Project Source:
                                     <strong><a href="https://github.com/srivatsan-ramesh/Virtual-Makeup">Virtual-Makeup</a>
